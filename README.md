@@ -4,7 +4,7 @@ You recently have been hired by Apple’s design team to create a new wallpaper 
 ![](exemplar.png)
 
 ## Requirements
-1. The program should include at least one for loop.
+1. The program should include at least two for loops.
 2. The for loop(s) should be used to increment values such as width, height, or color.
 3. Variations should result from changing different values in the loop. The designs should not only vary in color. Play with size, number of repetitions etc.
 4. Save three different variations of the same design
